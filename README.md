@@ -49,4 +49,6 @@ To run the app on your local machine, follow these steps:
 
 3. Scan the QR code with the Expo Go app on your mobile device or run the app on an emulator.
 
+## Demo
+https://github.com/AgacheAndrei/hackathon-aciee-2023-DriverAwarenessApp/assets/36128809/9020a949-6e57-45b3-9db7-1b8e64bb243b
 
